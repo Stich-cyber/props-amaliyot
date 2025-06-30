@@ -1,0 +1,39 @@
+.div {
+  width: 400px;
+  height: 560px;
+  position: relative;
+  padding-left: 28px;
+  display: flex;
+  align-items: start;
+  justify-content: center;
+  flex-direction: column;
+  gap: 22px;
+  border-radius: 28px;
+  background-color: #cbcbcb;
+  box-shadow: 16px 16px 16px 0px #00000040;
+  border-bottom: 8px solid #727272;
+  border-top: 2px solid #727272;
+  border-right: 2px solid #727272;
+  border-left: 2px solid #727272;
+}
+#i {
+  position: absolute;
+  text-shadow: 0px 1px 2px 0px #00000030;
+  color: #727272;
+  font-size: 33px;
+  right: 40px;
+  top: 60px;
+}
+p {
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 100%;
+  letter-spacing: 0%;
+}
+h6 {
+  max-width: 335px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 100%;
+  letter-spacing: 0%;
+}

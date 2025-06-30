@@ -1,0 +1,19 @@
+#btn {
+  display: flex;
+  align-items: center;
+  gap: 66px;
+  height: 74px;
+  width: 344px;
+  border-radius: 28px;
+  justify-content: start;
+  padding-left: 21px;
+  border-width: 2px, 2px, 8px, 2px;
+  border-style: solid;
+  color: #282727;
+  border-color: #727272;
+  font-weight: 400;
+  font-size: 18px;
+}
+#ii{
+    font-size: 41px;
+}

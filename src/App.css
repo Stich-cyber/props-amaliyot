@@ -1,0 +1,22 @@
+.contanier {
+  background: linear-gradient(154.48deg, #2a5af7 4.61%, #ab229b 78.86%);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.cards {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 80px;
+  padding: 80px;
+}
+.t1 {
+  color: white;
+  padding-top: 113px;
+  padding-left: 73px;
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 100%;
+  letter-spacing: 0%;
+}
